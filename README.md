@@ -8,8 +8,11 @@ $ go run app.go
 hello world
 
 Sometimes we’ll want to build our programs into binaries. We can do this using go build.
+
 $ go build app.go
+
 $ ls
+
 app app.go
 
 
